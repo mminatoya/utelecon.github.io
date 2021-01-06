@@ -284,8 +284,10 @@
 
     <main id="content" class="main-content" role="main">
 
-      <h3>Table of Contents</h3>
-      {% include toc.html html=content %}
+      {% unless page.no_toc %}
+        <h3>Table of Contents</h3>
+        {% include toc.html html=content %}
+      {% endunless %}
 
       {{ content }}
 
