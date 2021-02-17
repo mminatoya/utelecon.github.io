@@ -1,5 +1,6 @@
 ---
 title: 2021年春のシステム変更
+no_toc: true
 ---
 
 <div style="border: 2px solid currentcolor; margin-bottom: 0.5em; padding: 0.5em; font-weight: bold; font-size: larger">UTokyo AccountやZoomなど東大の情報システムの利用方法が変わります</div>
