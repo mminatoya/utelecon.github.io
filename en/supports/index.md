@@ -49,7 +49,7 @@ Available hours: Weekdays from 10:20 a.m. to 4:45 p.m.
 
 <div class="support-channel-main">
 
-<h2 id="email-form">Consulting via Email Form</h2>.
+<h2 id="email-form">Consulting via Email Form</h2>
 
 <p>Student operators (also called “common supporters”) will reply to the received email inquiries. When it is difficult for student staff to resolve the issue, a faculty member will take over the consultation.</p>
 
